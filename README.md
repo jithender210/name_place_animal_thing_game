@@ -4,6 +4,8 @@ This is the very funny game of childhood . Now you can play with your computer
 Here i am useing python programming language to detect the name,place,animal,thing which are entered by user
 
 #STEPS
+
+
 STEP1:
 THE system will select a alphabet randomly and ask the user to enter the name ,place ,animal,thing that start with the selected alphabet
 
