@@ -36,6 +36,6 @@ Here i am using python language
 
 
 
-  ## you can acesss by jithender210\name_place_animal_thing-game
+  ## you can acesss by jithender210\name_place_animal_thing_game
 
   #THANKYOU 🙇‍♂️👍👍
